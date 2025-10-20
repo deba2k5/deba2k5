@@ -25,7 +25,7 @@
 <a href="https://www.leetcode.com/https://leetcode.com/u/debangshu2k5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/debangshu2k5/" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/https://www.hackerearth.com/@debangshuchatterjee2005/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@debangshuchatterjee2005/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/debangshuchadbb7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/debangshuchadbb7/" height="30" width="40" /></a>
-<a href="https://discord.gg/prxdator5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="prxdator5" height="30" width="40" /></a>
+<a href="https://discord.gg/prxdator" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="prxdator" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -36,4 +36,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deba2k5&show_icons=true&locale=en" alt="deba2k5" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deba2k5&" alt="deba2k5" /></p>
-
