@@ -3,10 +3,7 @@
   <img alt="Debangshu Chatterjee" src="./header.svg" style="max-width:100%;height:auto;"/>
 </p>
 
-<!-- Typing SVG -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4500&color=00E8FF&center=true&vCenter=true&width=950&lines=Hey+there+%F0%9F%91%8B,+I'm+Debangshu+Chatterjee;AI+Developer+%7C+Full+Stack+Developer+%7C+IoT+Enthusiast;Research-Driven+AI+%26+Startup+Product+Builder;Building+AI-Native+Systems+with+Real-World+Impact" alt="Typing Animation">
-</p>
+
 
 <h1 align="center">🚀 AI Developer • Full Stack Developer • IoT Enthusiast</h1>
 
