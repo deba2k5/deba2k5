@@ -1,5 +1,5 @@
 
-                         D E B A N G S H U   C H A T T E R J E E
+DEBANGSHU CHATTERJEE
 
 <h1 align="center">🚀 AI Developer • Full Stack Developer • IoT Enthusiast</h1>
 
