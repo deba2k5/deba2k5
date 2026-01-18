@@ -1,6 +1,4 @@
 
-DEBANGSHU CHATTERJEE
-
 <h1 align="center">🚀 AI Developer • Full Stack Developer • IoT Enthusiast</h1>
 
 <p align="center">
