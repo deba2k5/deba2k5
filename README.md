@@ -2,7 +2,7 @@
 <h1 align="center">🚀 AI Developer • Full Stack Developer • IoT Enthusiast</h1>
 
 <p align="center">
-  <strong>Research-focused AI engineer and startup-minded product builder, crafting intelligent systems from idea to impact.</strong>
+  <strong>Research focused AI engineer and startup-minded product builder, crafting intelligent systems from idea to impact.</strong>
 </p>
 
 ---
