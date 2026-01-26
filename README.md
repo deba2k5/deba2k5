@@ -7,7 +7,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💻 About Me:-
 
 I’m an **AI Developer and Full Stack Engineer** with a strong inclination toward **research-driven systems, intelligent automation, and real-world IoT applications**.  
 I enjoy building **AI-native products** that blend data, models, hardware, and scalable software into meaningful solutions.
