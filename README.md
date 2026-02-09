@@ -23,7 +23,7 @@ What defines me best:
 - 📡 **IoT-based healthcare & sensing systems**
 - ⚙️ **Automation, orchestration & pipelines**
 - 🚀 **Startup mindset: Idea → Architecture → MVP → Scale**
-- 🎯 Strong focus on **clarity, scalability, and real-world usability**
+- 🎯 Strong focus on **clarity, scalability, and real-world usability case**
 
 ---
 
