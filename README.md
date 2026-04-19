@@ -19,12 +19,14 @@
 ╚██████╗ ██║  ██║██║  ██║   ██║      ██║   ███████╗██║  ██║╚█████╔╝███████╗███████╗
  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝      ╚═╝   ╚══════╝╚═╝  ╚═╝ ╚════╝ ╚══════╝╚══════╝
 
-<br/>
+<br><br/>
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Debangshu_Chatterjee-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debangshu-chatterjee-858859282/)
 [![Email](https://img.shields.io/badge/Email-debangshuchatterjee2005%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:debangshuchatterjee2005@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-deba2k5-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deba2k5)
-[![AIZenera](https://img.shields.io/badge/AIZenera-Founder_&_CEO-00F7FF?style=for-the-badge&logo=openai&logoColor=black)](https://github.com/deba2k5)
+[![AIZenera](https://img.shields.io/badge/AIZenera-Founder_%26_CEO-00F7FF?style=for-the-badge&logo=openai&logoColor=black)](https://github.com/deba2k5)
 
 <br/>
 
@@ -46,14 +48,14 @@ Currently building **AIZenera** — a next-generation AI systems and products co
 
 ```python
 class Debangshu:
-    name       = "Debangshu Chatterjee"
-    role       = ["AI Engineer", "Full Stack Dev", "IoT Builder", "Founder @ AIZenera"]
-    languages  = ["Python", "JavaScript", "C++", "SQL"]
-    passion    = "Turning research into real-world AI products"
-    superpower = "Idea → Architecture → MVP → Scale"
-    currently  = "Building AIZenera & next-gen Agentic AI systems"
-    fun_fact   = "I've won more hackathons than I've had good nights of sleep 🏆"
-```
+    def __init__(self):
+        self.name       = "Debangshu Chatterjee"
+        self.role       = ["AI Engineer", "Full Stack Dev", "IoT Builder", "Founder @ AIZenera"]
+        self.languages  = ["Python", "JavaScript", "C++", "SQL"]
+        self.passion    = "Turning research into real-world AI products"
+        self.superpower = "Idea → Architecture → MVP → Scale"
+        self.currently  = "Building AIZenera & next-gen Agentic AI systems"
+        self.fun_fact   = "I've won more hackathons than I've had good nights of sleep 🏆"
 
 <br clear="right"/>
 
