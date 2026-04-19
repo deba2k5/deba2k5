@@ -21,14 +21,18 @@
 ```
 
 <br/>
+
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Debangshu_Chatterjee-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debangshu-chatterjee-858859282/)
 [![Email](https://img.shields.io/badge/Email-debangshuchatterjee2005%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:debangshuchatterjee2005@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-deba2k5-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deba2k5)
-[![AIZenera](https://img.shields.io/badge/AIZenera-Founder_&_CEO-00F7FF?style=for-the-badge&logo=openai&logoColor=black)](https://github.com/deba2k5)
- 
+[![AIZenera](https://img.shields.io/badge/AIZenera-Founder_%26_CEO-00F7FF?style=for-the-badge&logo=openai&logoColor=black)](https://github.com/deba2k5)
+
 <br/>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=deba2k5&color=00F7FF&style=for-the-badge&label=PROFILE+VIEWS)
- 
+
 </div>
  
 > *"Research-driven AI, built with a startup mindset."*
