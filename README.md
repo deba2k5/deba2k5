@@ -21,19 +21,19 @@
 ```
 
 <br/>
-
-
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Debangshu_Chatterjee-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debangshu-chatterjee-858859282/)
 [![Email](https://img.shields.io/badge/Email-debangshuchatterjee2005%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:debangshuchatterjee2005@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-deba2k5-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deba2k5)
-[![AIZenera](https://img.shields.io/badge/AIZenera-Founder_%26_CEO-00F7FF?style=for-the-badge&logo=openai&logoColor=black)](https://github.com/deba2k5)
-
+[![AIZenera](https://img.shields.io/badge/AIZenera-Founder_&_CEO-00F7FF?style=for-the-badge&logo=openai&logoColor=black)](https://github.com/deba2k5)
+ 
 <br/>
-
 ![Profile Views](https://komarev.com/ghpvc/?username=deba2k5&color=00F7FF&style=for-the-badge&label=PROFILE+VIEWS)
-
+ 
 </div>
+---
+ 
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF"/>
+## 🧑‍💻 About Me
  
 > *"Research-driven AI, built with a startup mindset."*
  
@@ -265,5 +265,6 @@ An AI-powered advisory platform built **for farmers**, integrating **Vision Lang
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=&animation=twinkling" width="100%"/>
 > *"The best systems aren't just built — they're engineered with intent."*
 > **— Debangshu Chatterjee**
+>
+> </div>
  
-</div>
