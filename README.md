@@ -20,7 +20,7 @@
  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝      ╚═╝   ╚══════╝╚═╝  ╚═╝ ╚════╝ ╚══════╝╚══════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=🧠+AI+%2F+GenAI+%2F+Agentic+Systems+Engineer;🚀+Full+Stack+%2B+IoT+Product+Builder;🔬+Research-Driven+%7C+Startup-Minded;⚡+Founder+%26+CEO+%40+AIZenera;🏆+Serial+Hackathon+Winner+%7C+Innovator" alt="Typing SVG" />
+
 
 <br/>
 
