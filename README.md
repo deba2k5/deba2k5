@@ -20,6 +20,7 @@
  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝      ╚═╝   ╚══════╝╚═╝  ╚═╝ ╚════╝ ╚══════╝╚══════╝
 ```
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=🧠+AI+%2F+GenAI+%2F+Agentic+Systems+Engineer;🚀+Full+Stack+%2B+IoT+Product+Builder;🔬+Research-Driven+%7C+Startup-Minded;⚡+Founder+%26+CEO+%40+AIZenera;🏆+Serial+Hackathon+Winner+%7C+Innovator" alt="Typing SVG" />
 <br/>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Debangshu_Chatterjee-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debangshu-chatterjee-858859282/)
 [![Email](https://img.shields.io/badge/Email-debangshuchatterjee2005%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:debangshuchatterjee2005@gmail.com)
@@ -27,14 +28,9 @@
 [![AIZenera](https://img.shields.io/badge/AIZenera-Founder_&_CEO-00F7FF?style=for-the-badge&logo=openai&logoColor=black)](https://github.com/deba2k5)
  
 <br/>
-
 ![Profile Views](https://komarev.com/ghpvc/?username=deba2k5&color=00F7FF&style=for-the-badge&label=PROFILE+VIEWS)
  
 </div>
----
- 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF"/>
-## 🧑‍💻 About Me
  
 > *"Research-driven AI, built with a startup mindset."*
  
