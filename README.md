@@ -68,19 +68,19 @@ class Debangshu:
 
 | 🥇 Award | 🎯 Result |
 |---|---|
-| 🏅 **Infosys TFG Hackathon** | State Winner · **Rank 8 All India** |
+| 🏅 **Infosys TFG Hackathon 2025** | State Winner · **Rank 8 All India** |
 | 🥈 **Smart India Hackathon 2024** | Runners Up |
 | 🌟 **Samsung Solve for Tomorrow 2025** | Top 100 |
-| 🔔 **Aegis Graham Bell Award** | Nominee · Received **8/10** |
-| 🥉 **HackNITR 7.0** | 2nd Runners Up |
+| 🔔 **Aegis Graham Bell Award 2025** | Nominee · Received **8/10** |
+| 🥉 **HackNITR 7.0 2026** | 2nd Runners Up |
 | 🥈 **Tech Intella 2024** | 2nd Runners Up |
 | 🥈 **Eureka Innovacia 2025** | Runners Up |
 | 🥈 **Industry Connect Young Innovators Challenge 2025** | Runners Up |
-| 🏆 **Tata Social Enterprise Challenge** | **Winner** |
+| 🏆 **Tata Social Enterprise Challenge 2025** | **Winner** |
 | 🏆 **AICTE IDE Bootcamp 2024** | **Winner** |
 | 🏆 **AICTE IDE Bootcamp 2025** | **Winner** |
 | 🚀 **AICTE Yukti Udaymahotsav 2025** | **Top 30 Emerging Startup** |
-
+| 🥈 **HackArena 2.0 2026** | Runners Up |
 </div>
 
 ---
