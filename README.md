@@ -254,10 +254,12 @@ An AI-powered advisory platform built **for farmers**, integrating **Vision Lang
 | Role | Event / Organization |
 |---|---|
 | 🎙️ **Founder & CEO** | **AIZenera** |
-| 🎯 **Lead Organizer** | **Diversion 2025** |
+| 🎯 **Lead Organizer** | **Diversion 2026** |
 | 🎯 **Lead Organizer** | **Smart Maker Festival 2025** |
 | 🎯 **Lead Organizer** | **Smart Makeathon 2025** |
 | 🎯 **Lead Organizer** | **IEM Hackoasis 2.0** |
+| 🎯 **Lead Organizer** | **IEMHacks 4.0** |
+| 🎯 **Lead Organizer** | **CodeVoyage 2026** |
 
 </div>
 
