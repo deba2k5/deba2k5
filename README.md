@@ -183,6 +183,35 @@ An AI-powered advisory platform built **for farmers**, integrating **Vision Lang
 
 ---
 
+## 🌍 Open Source Contributions
+
+<div align="center">
+
+| 🏢 Organization | 📦 Repository | 🔧 Contribution | 📌 Status |
+|---|---|---|---|
+| <img src="https://github.com/awslabs.png" width="20"/> **AWS Labs** | [`awslabs/aws-support-tools`](https://github.com/awslabs/aws-support-tools) | [**PR #335**](https://github.com/awslabs/aws-support-tools/pull/335) — Migrated Lambda functions docs & scripts from Python 2.7 to **Python 3.12** (fixes issue #316) | ![Merged](https://img.shields.io/badge/Merged-8957E5?style=flat-square&logo=github&logoColor=white) |
+| <img src="https://github.com/Graphify-Labs.png" width="20"/> **Graphify Labs** | [`Graphify-Labs/graphify`](https://github.com/Graphify-Labs/graphify) | [**#5251**](https://github.com/Graphify-Labs/graphify/commit/ed8646da5a82eb5ff3fb802a110a1e89e2c1b7af) — Fixed Java generic-bound resolution in the AST extractor so inner `<T>` no longer shadows the class's `T` (+ regression tests) | ![Merged](https://img.shields.io/badge/Merged-8957E5?style=flat-square&logo=github&logoColor=white) |
+
+</div>
+
+<details>
+<summary><b>🔍 Contribution details</b></summary>
+<br/>
+
+**☁️ AWS Labs — `aws-support-tools`**
+- Updated the runtime for `AutoShutEC2`, `echo` and `echo-api-lambda-proxy` from Python 2.7 → Python 3.12 in `Lambda/Functions/README.md`
+- Switched the `auto_shut_ec2.py` shebang to `python3` and dropped a no-op `__future__` import from `tag_ec2_dependencies.py`
+- Reviewed and merged by AWS Labs maintainers
+
+**🕸️ Graphify Labs — `graphify`** *(turns codebases into a queryable knowledge graph via deterministic AST parsing)*
+- Reworked `extractors/engine.py` to resolve each scope's generic bounds against its own and enclosing scopes **before** inner scopes can shadow them
+- Fixed a bug where two Java overloads collapsed into one graph node and lost their call edges
+- Added regression tests in `tests/test_java_overloads.py`
+
+</details>
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
