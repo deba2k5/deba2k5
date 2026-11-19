@@ -81,6 +81,9 @@ class Debangshu:
 | 🏆 **AICTE IDE Bootcamp 2025** | **Winner** |
 | 🚀 **AICTE Yukti Udaymahotsav 2025** | **Top 30 Emerging Startup** |
 | 🥈 **HackArena 2.0 2026** | Runners Up |
+| 🏆 **IEEE YESIST12 Malaysia 2025** | **Top 3** |
+| 🏆 **AICTE Inventors Challenge 2024** | **Top 20 National Finalist** |
+| 🏅 **Arduino Hackathon** | **Winner** |
 </div>
 
 ---
