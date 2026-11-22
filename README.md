@@ -195,6 +195,8 @@ An AI-powered advisory platform built **for farmers**, integrating **Vision Lang
 | <img src="https://github.com/awslabs.png" width="20"/> **AWS Labs** | [`awslabs/aws-support-tools`](https://github.com/awslabs/aws-support-tools) | [**PR #335**](https://github.com/awslabs/aws-support-tools/pull/335) — Migrated Lambda functions docs & scripts from Python 2.7 to **Python 3.12** (fixes issue #316) | ![Merged](https://img.shields.io/badge/Merged-8957E5?style=flat-square&logo=github&logoColor=white) |
 | <img src="https://github.com/Graphify-Labs.png" width="20"/> **Graphify Labs** | [`Graphify-Labs/graphify`](https://github.com/Graphify-Labs/graphify) | [**#5251**](https://github.com/Graphify-Labs/graphify/commit/ed8646da5a82eb5ff3fb802a110a1e89e2c1b7af) — Fixed Java generic-bound resolution in the AST extractor so inner `<T>` no longer shadows the class's `T` (+ regression tests) | ![Merged](https://img.shields.io/badge/Merged-8957E5?style=flat-square&logo=github&logoColor=white) |
 | <img src="https://github.com/necoz-oss.png" width="20"/> **necoz-oss** | [`necoz-oss/is-kit`](https://github.com/necoz-oss/is-kit) | [**PR #459**](https://github.com/necoz-oss/is-kit/pull/459) — Documented `oneOfValues` exact-equality semantics, input forms and snapshot behavior in the API reference (closes issue #436) | ![Merged](https://img.shields.io/badge/Merged-8957E5?style=flat-square&logo=github&logoColor=white) |
+| <img src="https://github.com/mesa.png" width="20"/> **Mesa** | [`mesa/mesa`](https://github.com/mesa/mesa) | [**PR #4146**](https://github.com/mesa/mesa/pull/4146) — `CellCollection.cells` now returns a cached, immutable tuple, so callers can no longer mutate a collection's cells by accident (closes issue #4142) | ![Merged](https://img.shields.io/badge/Merged-8957E5?style=flat-square&logo=github&logoColor=white) |
+| <img src="https://github.com/AOSSIE-Org.png" width="20"/> **AOSSIE** | [`AOSSIE-Org/Rein`](https://github.com/AOSSIE-Org/Rein) | [**PR #500**](https://github.com/AOSSIE-Org/Rein/pull/500) — Fixed the shared file list going stale after an SSE reconnect: the server now sends a snapshot event and the client resyncs, so deleted or expired files are removed (closes issue #482) | ![Merged](https://img.shields.io/badge/Merged-8957E5?style=flat-square&logo=github&logoColor=white) |
 
 </div>
 
@@ -215,6 +217,15 @@ An AI-powered advisory platform built **for farmers**, integrating **Vision Lang
 **🧩 necoz-oss — `is-kit`**
 - Added API-reference sections for the `oneOfValues` combinator: exact equality via `Object.is` (`NaN` matches `NaN`, `+0`/`-0` differ, no coercion), passing values as arguments or an array, and values captured at creation
 - Docs-only change with runnable examples; reviewed and merged by maintainers
+
+**🏛️ Mesa — `mesa/mesa`** *(Python agent-based modeling framework)*
+- Changed `CellCollection.cells` from a list rebuilt on each access to a `cached_property` returning a tuple, which stops callers mutating the collection through it
+- Reworked after maintainer review and a benchmark regression, so access stays cheap
+- Added a regression test covering the tuple type and that the collection is unchanged
+
+**🖱️ AOSSIE — `Rein`** *(remote mouse, keyboard and file-share app)*
+- Added a snapshot event to the file-share SSE stream, so a reconnecting client receives the full current list
+- Added a pure client helper, `applySharedFileEvent`, that applies events to the local list, with unit tests for both sides
 
 </details>
 
