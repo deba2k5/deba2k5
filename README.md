@@ -197,6 +197,7 @@ An AI-powered advisory platform built **for farmers**, integrating **Vision Lang
 | <img src="https://github.com/necoz-oss.png" width="20"/> **necoz-oss** | [`necoz-oss/is-kit`](https://github.com/necoz-oss/is-kit) | [**PR #459**](https://github.com/necoz-oss/is-kit/pull/459) — Documented `oneOfValues` exact-equality semantics, input forms and snapshot behavior in the API reference (closes issue #436) | ![Merged](https://img.shields.io/badge/Merged-8957E5?style=flat-square&logo=github&logoColor=white) |
 | <img src="https://github.com/mesa.png" width="20"/> **Mesa** | [`mesa/mesa`](https://github.com/mesa/mesa) | [**PR #4146**](https://github.com/mesa/mesa/pull/4146) — `CellCollection.cells` now returns a cached, immutable tuple, so callers can no longer mutate a collection's cells by accident (closes issue #4142) | ![Merged](https://img.shields.io/badge/Merged-8957E5?style=flat-square&logo=github&logoColor=white) |
 | <img src="https://github.com/AOSSIE-Org.png" width="20"/> **AOSSIE** | [`AOSSIE-Org/Rein`](https://github.com/AOSSIE-Org/Rein) | [**PR #500**](https://github.com/AOSSIE-Org/Rein/pull/500) — Fixed the shared file list going stale after an SSE reconnect: the server now sends a snapshot event and the client resyncs, so deleted or expired files are removed (closes issue #482) | ![Merged](https://img.shields.io/badge/Merged-8957E5?style=flat-square&logo=github&logoColor=white) |
+| <img src="https://github.com/pgadmin-org.png" width="20"/> **pgAdmin** | [`pgadmin-org/pgadmin4`](https://github.com/pgadmin-org/pgadmin4) | [**PR #10787**](https://github.com/pgadmin-org/pgadmin4/pull/10787) — Restored the 300ms debounce on Query Tool autocomplete and cancel stale suggestion requests, so it no longer hits the server on every keystroke (part of issue #10461) | ![Merged](https://img.shields.io/badge/Merged-8957E5?style=flat-square&logo=github&logoColor=white) |
 
 </div>
 
@@ -226,6 +227,11 @@ An AI-powered advisory platform built **for farmers**, integrating **Vision Lang
 **🖱️ AOSSIE — `Rein`** *(remote mouse, keyboard and file-share app)*
 - Added a snapshot event to the file-share SSE stream, so a reconnecting client receives the full current list
 - Added a pure client helper, `applySharedFileEvent`, that applies events to the local list, with unit tests for both sides
+
+**🐘 pgAdmin — `pgadmin4`** *(PostgreSQL administration and development platform)*
+- Brought back the 300ms typing delay that the CodeMirror 6 migration dropped, via `activateOnTypingDelay`; an explicit Ctrl+Space still answers right away
+- Passed an `AbortController` signal to the autocomplete request so it is cancelled in the browser when the completion resets, without showing an error
+- Added `QueryAutocomplete.spec.js` with 11 tests (fake timers driving a real editor); reviewed and merged by maintainer Dave Page
 
 </details>
 
