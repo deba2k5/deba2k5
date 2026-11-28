@@ -354,3 +354,5 @@ An AI-powered advisory platform built **for farmers**, integrating **Vision Lang
 > **— Debangshu Chatterjee**
 
 </div>
+
+[![GitHub Commits Badge](https://ghcommits.com/api/badge/deba2k5.svg)](https://ghcommits.com/u/deba2k5)
